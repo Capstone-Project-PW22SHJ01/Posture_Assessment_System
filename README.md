@@ -2,7 +2,7 @@
 
 Instructions to Run the project : 
 
-1)Please raise a request to me for two files called 1)weight.h5 2)PythonApplication1.exe
+1)Please contact me for two files called 1)weight.h5 2)PythonApplication1.exe
 
 2)Unzip them and add them in the project folder
 
